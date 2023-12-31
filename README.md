@@ -154,6 +154,7 @@ buttons.forEach((button) => {
   button.addEventListener("click", (e) => calculate(e.target.dataset.value));
 });
 ## OUTPUT:
-![output](output.png)
+![output](https://github.com/dinesh2068/Calc/assets/151390189/52f2d893-27a7-4c76-99e4-5988fd45c574)
+
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
